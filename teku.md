@@ -1,8 +1,8 @@
 # Teku
 
-**Repo:** https://github.com/Consensys/teku
-**Development branch:** `master`
-**Reftest version:** [`refTestVersion`](https://github.com/Consensys/teku/search?q=refTestVersion&type=code)
+- **Repo:** https://github.com/Consensys/teku
+- **Development branch:** `master`
+- **Reftest version:** [`refTestVersion`](https://github.com/Consensys/teku/search?q=refTestVersion&type=code)
 
 ## Starting Fresh
 

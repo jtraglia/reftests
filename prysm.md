@@ -1,8 +1,8 @@
 # Prysm
 
-**Repo:** https://github.com/prysmaticlabs/prysm
-**Development branch:** `develop`
-**Reftest version:** [`consensus_spec_version`](https://github.com/prysmaticlabs/prysm/search?q=consensus_spec_version&type=code)
+- **Repo:** https://github.com/prysmaticlabs/prysm
+- **Development branch:** `develop`
+- **Reftest version:** [`consensus_spec_version`](https://github.com/prysmaticlabs/prysm/search?q=consensus_spec_version&type=code)
 
 ## Starting Fresh
 

@@ -1,8 +1,8 @@
 # Nimbus
 
-**Repo:** https://github.com/status-im/nimbus-eth2
-**Development branch:** `unstable`
-**Reftest version:** [`CONSENSUS_TEST_VECTOR_VERSIONS`](https://github.com/status-im/nim-eth2-scenarios/search?q=CONSENSUS_TEST_VECTOR_VERSIONS&type=code)
+- **Repo:** https://github.com/status-im/nimbus-eth2
+- **Development branch:** `unstable`
+- **Reftest version:** [`CONSENSUS_TEST_VECTOR_VERSIONS`](https://github.com/status-im/nim-eth2-scenarios/search?q=CONSENSUS_TEST_VECTOR_VERSIONS&type=code)
 
 ## Starting Fresh
 

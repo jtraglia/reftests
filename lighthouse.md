@@ -1,8 +1,8 @@
 # Lighthouse
 
-**Repo:** https://github.com/sigp/lighthouse
-**Development branch:** `unstable`
-**Reftest version:** [`CONSENSUS_SPECS_TEST_VERSION`](https://github.com/sigp/lighthouse/search?q=CONSENSUS_SPECS_TEST_VERSION&type=code)
+- **Repo:** https://github.com/sigp/lighthouse
+- **Development branch:** `unstable`
+- **Reftest version:** [`CONSENSUS_SPECS_TEST_VERSION`](https://github.com/sigp/lighthouse/search?q=CONSENSUS_SPECS_TEST_VERSION&type=code)
 
 ## Starting Fresh
 

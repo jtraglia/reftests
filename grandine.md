@@ -1,8 +1,8 @@
 # Grandine
 
-**Repo:** https://github.com/grandinetech/grandine
-**Development branch:** `develop`
-**Reftest version:** [`SPEC_VERSION`](https://github.com/grandinetech/grandine/search?q=SPEC_VERSION+path%3Ascripts%2Fdownload_spec_tests.sh&type=code)
+- **Repo:** https://github.com/grandinetech/grandine
+- **Development branch:** `develop`
+- **Reftest version:** [`SPEC_VERSION`](https://github.com/grandinetech/grandine/search?q=SPEC_VERSION+path%3Ascripts%2Fdownload_spec_tests.sh&type=code)
 
 ## Starting Fresh
 

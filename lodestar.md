@@ -1,8 +1,8 @@
 # Lodestar
 
-**Repo:** https://github.com/ChainSafe/lodestar
-**Development branch:** `unstable`
-**Reftest version:** [`specTestVersioning`](https://github.com/ChainSafe/lodestar/search?q=specTestVersioning&type=code)
+- **Repo:** https://github.com/ChainSafe/lodestar
+- **Development branch:** `unstable`
+- **Reftest version:** [`specTestVersioning`](https://github.com/ChainSafe/lodestar/search?q=specTestVersioning&type=code)
 
 ## Starting Fresh
 
