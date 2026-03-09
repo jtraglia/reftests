@@ -21,7 +21,7 @@ make -C testing/ef_tests
 Run the tests:
 
 ```bash
-cargo test --features ef_tests
+cargo test -p ef_tests --features ef_tests
 ```
 
 > [!NOTE]
@@ -39,5 +39,23 @@ make -C testing/ef_tests CONSENSUS_SPECS_TEST_VERSION=nightly
 Run the tests:
 
 ```bash
-cargo test --features ef_tests
+cargo test -p ef_tests --features ef_tests
 ```
+
+## Running In-Development Reference Tests
+
+Symlink your local consensus-spec-tests into the expected location:
+
+```bash
+ln -s /path/to/consensus-spec-tests testing/ef_tests/
+```
+
+Run the tests:
+
+```bash
+cargo test -p ef_tests --features ef_tests
+```
+
+> [!NOTE]
+> Failures about non-existent test directories (e.g., `handler dir ... exists: NotFound`)
+> are expected when you haven't generated all test vectors. These can be safely ignored.
