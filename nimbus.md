@@ -7,7 +7,7 @@
 ## Starting Fresh
 
 ```bash
-rm -rf build/ vendor/nim-eth2-scenarios/tarballs vendor/nim-eth2-scenarios/tests-*
+git clean -fdx
 ```
 
 ## Running Stable Reference Tests

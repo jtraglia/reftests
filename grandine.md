@@ -7,8 +7,7 @@
 ## Starting Fresh
 
 ```bash
-rm -rf consensus-spec-tests
-cargo clean
+git clean -fdx
 ```
 
 ## Running Stable Reference Tests

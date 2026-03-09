@@ -7,8 +7,7 @@
 ## Starting Fresh
 
 ```bash
-make -C testing/ef_tests clean
-cargo clean
+git clean -fdx
 ```
 
 ## Running Stable Reference Tests

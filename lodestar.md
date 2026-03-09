@@ -7,9 +7,7 @@
 ## Starting Fresh
 
 ```bash
-rm -rf packages/*/spec-tests*
-pnpm clean
-pnpm clean:nm
+git clean -fdx
 ```
 
 ## Running Stable Reference Tests

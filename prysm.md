@@ -7,6 +7,7 @@
 ## Starting Fresh
 
 ```bash
+git clean -fdx
 bazel clean --expunge
 ```
 
