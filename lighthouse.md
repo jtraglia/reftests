@@ -44,10 +44,11 @@ cargo test -p ef_tests --features ef_tests
 
 ## Running In-Development Reference Tests
 
-Symlink your local consensus-spec-tests into the expected location:
+Symlink your local reftests into the expected location:
 
 ```bash
-ln -s /path/to/consensus-spec-tests testing/ef_tests/
+mkdir -p testing/ef_tests/consensus-spec-tests
+ln -s /path/to/consensus-specs/reftests testing/ef_tests/consensus-spec-tests/tests
 ```
 
 Run the tests:

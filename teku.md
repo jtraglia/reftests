@@ -38,8 +38,8 @@ NIGHTLY=true ./gradlew referenceTest
 Symlink your local consensus-spec-tests into the expected location:
 
 ```bash
-mkdir ./eth-reference-tests/src/referenceTest/resources/
-ln -s /path/to/consensus-spec-tests ./eth-reference-tests/src/referenceTest/resources/
+mkdir -p ./eth-reference-tests/src/referenceTest/resources/consensus-spec-tests/
+ln -s /path/to/consensus-specs/reftests ./eth-reference-tests/src/referenceTest/resources/consensus-spec-tests/tests
 ```
 
 Run the tests:
